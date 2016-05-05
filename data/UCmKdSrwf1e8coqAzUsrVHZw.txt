@@ -1,0 +1,21 @@
+{"title":"Sia - Cheap Thrills (Audio)","channelId":"UCmKdSrwf1e8coqAzUsrVHZw","tag":"Pop,Cheap Thrills,Sia,Monkey,Puzzle,Records/RCA,Records","videoId":"J1b22l1kFKY"}
+{"title":"Sia - Chandelier (Official Video)","channelId":"UCmKdSrwf1e8coqAzUsrVHZw","tag":"Sia,Chandelier,vevo,Monkey,Puzzle,Records,Pop","videoId":"2vjPBrBU-TM"}
+{"title":"Sia - Unstoppable (Audio)","channelId":"UCmKdSrwf1e8coqAzUsrVHZw","tag":"Pop,Unstoppable,Sia,Monkey,Puzzle,Records/RCA,Records","videoId":"cxjvTXo9WWM"}
+{"title":"Sia - Big Girls Cry (Behind The Scenes)","channelId":"UCmKdSrwf1e8coqAzUsrVHZw","tag":"Pop,Sia,Monkey,Puzzle,Records/RCA,Records,Big Girls Cry","videoId":"jLk7MijLts4"}
+{"title":"Sia - Chandelier (LYRIC VIDEO)","channelId":"UCmKdSrwf1e8coqAzUsrVHZw","tag":"Pop,Sia,Monkey,Puzzle,Records/RCA,Records,Chandelier","videoId":"8DS-h67qEiY"}
+{"title":"Sia - Reaper (Audio)","channelId":"UCmKdSrwf1e8coqAzUsrVHZw","tag":"Pop,Sia,Monkey,Puzzle,Records/RCA,Records,Reaper","videoId":"XeM0lzQhigg"}
+{"title":"Sia - Day Too Soon","channelId":"UCmKdSrwf1e8coqAzUsrVHZw","tag":"Sia,Hear,Music,Rock","videoId":"34i0yUomjbY"}
+{"title":"Sia - Footprints (Audio)","channelId":"UCmKdSrwf1e8coqAzUsrVHZw","tag":"Pop,Footprints,Sia,Monkey,Puzzle,Records/RCA,Records","videoId":"gAmlaJSOyd0"}
+{"title":"Sia - Big Girls Cry (Official Video)","channelId":"UCmKdSrwf1e8coqAzUsrVHZw","tag":"Pop,Sia,Monkey,Puzzle,Records/RCA,Records,Big Girls Cry","videoId":"4NhKWZpkw1Q"}
+{"title":"Sia - The Girl You Lost to Cocaine","channelId":"UCmKdSrwf1e8coqAzUsrVHZw","tag":"Sia,Hear,Music,Rock","videoId":"r_0ulNpvrRU"}
+{"title":"Sia - Alive (Behind the Scenes)","channelId":"UCmKdSrwf1e8coqAzUsrVHZw","tag":"Pop,Alive (BTS),Sia,Monkey,Puzzle,Records/RCA,Records","videoId":"v8akkVAHsJU"}
+{"title":"Sia - Clap Your Hands","channelId":"UCmKdSrwf1e8coqAzUsrVHZw","tag":"Sia,Clap,Your,Hands,RCA,Records,Label,Pop","videoId":"HLA0ofsu0Qg"}
+{"title":"Sia - You've Changed","channelId":"UCmKdSrwf1e8coqAzUsrVHZw","tag":"Pop,RCA Records Label,Sia,You've Changed","videoId":"MHdcPlfwmkg"}
+{"title":"Sia - The Fight (Live At London Roundhouse)","channelId":"UCmKdSrwf1e8coqAzUsrVHZw","tag":"The Fight,Pop,RCA Records Label,Sia","videoId":"iSryDRs3xyM"}
+{"title":"Sia - Alive (Boehm Remix) [Audio]","channelId":"UCmKdSrwf1e8coqAzUsrVHZw","tag":"Pop,Sia,Monkey,Puzzle,Records/RCA,Records,Alive","videoId":"WOPl7F28LhA"}
+{"title":"Sia - Alive (AFSHeeN Remix) [Audio]","channelId":"UCmKdSrwf1e8coqAzUsrVHZw","tag":"Pop,Sia,Monkey,Puzzle,Records/RCA,Records,Alive","videoId":"Vu3PY3pbgio"}
+{"title":"Sia - Sweet Design (Audio)","channelId":"UCmKdSrwf1e8coqAzUsrVHZw","tag":"Pop,Sweet Design,Sia,Monkey,Puzzle,Records/RCA,Records","videoId":"aqX4cnsol1A"}
+{"title":"Sia - Buttons","channelId":"UCmKdSrwf1e8coqAzUsrVHZw","tag":"Sia,Hear,Music,Rock","videoId":"JhW1Spd4GlE"}
+{"title":"Sia - Alive - Trailer (Music Video Coming Soon)","channelId":"UCmKdSrwf1e8coqAzUsrVHZw","tag":"Sia,Alive,Trailer,(Music,Video,Coming,Soon),RCA,Records,Label,Pop","videoId":"bP6HUPHhpdI"}
+{"title":"Sia - Alive (Teaser)","channelId":"UCmKdSrwf1e8coqAzUsrVHZw","tag":"Sia,Alive,(Teaser),VEVO,Pop","videoId":"LVDgLQdgqx8"}
+{"title":"Sia - Elastic Heart (Teaser)","channelId":"UCmKdSrwf1e8coqAzUsrVHZw","tag":"Sia,Elastic,Heart,(Teaser),VEVO,Pop","videoId":"0BUOVOEvDZU"}
